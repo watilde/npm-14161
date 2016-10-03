@@ -1,0 +1,23 @@
+{
+  "name": "@watilde/npm-14161",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": {
+      "$": "echo 'should be called when npm install'",
+      "description": "should be called when npm install"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/npm-14161.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watilde/npm-14161/issues"
+  },
+  "homepage": "https://github.com/watilde/npm-14161#readme"
+}
